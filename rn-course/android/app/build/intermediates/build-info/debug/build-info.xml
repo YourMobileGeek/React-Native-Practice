@@ -6,13 +6,13 @@
     density="420dpi"
     format="10"
     plugin-version="3.1.4"
-    timestamp="1535024257079"
+    timestamp="1535163921018"
     token="-5201549270516439009"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1095" />
+        duration="9674" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -30,10 +30,10 @@
         location="/Users/arianad/Desktop/dev/React-Native-Practice/rn-course/android/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/arianad/Desktop/dev/React-Native-Practice/rn-course/android/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        location="/Users/arianad/Desktop/dev/React-Native-Practice/rn-course/android/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/arianad/Desktop/dev/React-Native-Practice/rn-course/android/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        location="/Users/arianad/Desktop/dev/React-Native-Practice/rn-course/android/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
         type="SPLIT" />
     <artifact
         location="/Users/arianad/Desktop/dev/React-Native-Practice/rn-course/android/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
@@ -65,7 +65,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1535024257079"
+        timestamp="1535163921018"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/arianad/Desktop/dev/React-Native-Practice/rn-course/android/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
@@ -74,10 +74,10 @@
             location="/Users/arianad/Desktop/dev/React-Native-Practice/rn-course/android/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/arianad/Desktop/dev/React-Native-Practice/rn-course/android/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/Users/arianad/Desktop/dev/React-Native-Practice/rn-course/android/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/arianad/Desktop/dev/React-Native-Practice/rn-course/android/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/arianad/Desktop/dev/React-Native-Practice/rn-course/android/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
             location="/Users/arianad/Desktop/dev/React-Native-Practice/rn-course/android/app/build/intermediates/split-apk/debug/slices/slice_3.apk"

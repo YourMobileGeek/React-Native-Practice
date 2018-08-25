@@ -1,4 +1,4 @@
-#Thu Aug 23 07:38:05 EDT 2018
-base.0=/Users/arianad/Desktop/dev/React-Native-Practice/rn-course/android/app/build/intermediates/transforms/dexMerger/debug/22
+#Fri Aug 24 22:26:36 EDT 2018
+base.0=/Users/arianad/Desktop/dev/React-Native-Practice/rn-course/android/app/build/intermediates/transforms/dexMerger/debug/107
 path.0=classes.dex
 renamed.0=classes.dex
